@@ -32,7 +32,7 @@
 		<freemarker.version>2.3.19</freemarker.version>
 		<org.slf4j-version>1.6.6</org.slf4j-version>
 		<hibernate.ehcache.version>3.5.1-Final</hibernate.ehcache.version>
-		<sm-core.hibernate-entitymanager-version>4.1.2</sm-core.hibernate-entitymanager-version>
+		<sm-core.hibernate-entitymanager-version>5.4.24.Final</sm-core.hibernate-entitymanager-version>
 		<sm-core.hibernate-jpamodelgen.version>4.3.0.Final</sm-core.hibernate-jpamodelgen.version>
 		<sm-core.aspectj.version>1.5.4</sm-core.aspectj.version>
 		<sm-core.mysql-connector-java>5.1.31</sm-core.mysql-connector-java>
