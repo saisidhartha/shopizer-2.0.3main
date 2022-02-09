@@ -37,7 +37,7 @@
 		<org.slf4j-version>1.6.6</org.slf4j-version>
 		<hibernate.ehcache.version>3.5.1-Final</hibernate.ehcache.version>
 		<sm-core.drools.version>5.6.0.Final</sm-core.drools.version>
-		<sm-core.hibernate-entitymanager-version>4.1.2</sm-core.hibernate-entitymanager-version>
+		<sm-core.hibernate-entitymanager-version>5.4.24.Final</sm-core.hibernate-entitymanager-version>
 		<sm-core.aspectj.version>1.5.4</sm-core.aspectj.version>
 		<sm-core.mysql-connector-java>5.1.31</sm-core.mysql-connector-java>
 		<sm-core.junit.version>4.9</sm-core.junit.version>
