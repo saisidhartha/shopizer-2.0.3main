@@ -22,7 +22,7 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 
 		<jackson-version>1.9.13</jackson-version>
-		<fasterxml-version>2.10.0.pr3</fasterxml-version>
+		<fasterxml-version>2.12.6.1</fasterxml-version>
 		<org.springframework-version>3.2.16.RELEASE</org.springframework-version>
 		<org.springframework-security-version>3.1.4.RELEASE</org.springframework-security-version>
 		<org.aspectj-version>1.8.7</org.aspectj-version>
